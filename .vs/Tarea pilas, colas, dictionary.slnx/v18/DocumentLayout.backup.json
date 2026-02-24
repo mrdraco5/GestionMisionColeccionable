@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tarea pilas, colas, dictionary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\tarea pilas, colas, dictionary\\assets\\game\\scripts\\controllerstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\controllerstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\tarea pilas, colas, dictionary\\assets\\game\\scripts\\controllerdictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\controllerdictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\tarea pilas, colas, dictionary\\assets\\game\\scripts\\controllerqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\controllerqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\tarea pilas, colas, dictionary\\assets\\game\\scripts\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\tarea pilas, colas, dictionary\\assets\\game\\scripts\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControllerStack.cs",
+              "DocumentMoniker": "D:\\Tarea pilas, colas, dictionary\\Assets\\Game\\Scripts\\ControllerStack.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\ControllerStack.cs",
+              "ToolTip": "D:\\Tarea pilas, colas, dictionary\\Assets\\Game\\Scripts\\ControllerStack.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\ControllerStack.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T17:42:19.03Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ControllerQueue.cs",
+              "DocumentMoniker": "D:\\Tarea pilas, colas, dictionary\\Assets\\Game\\Scripts\\ControllerQueue.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\ControllerQueue.cs",
+              "ToolTip": "D:\\Tarea pilas, colas, dictionary\\Assets\\Game\\Scripts\\ControllerQueue.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\ControllerQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T17:42:30.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ControllerDictionary.cs",
+              "DocumentMoniker": "D:\\Tarea pilas, colas, dictionary\\Assets\\Game\\Scripts\\ControllerDictionary.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\ControllerDictionary.cs",
+              "ToolTip": "D:\\Tarea pilas, colas, dictionary\\Assets\\Game\\Scripts\\ControllerDictionary.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\ControllerDictionary.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAA/wGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T17:42:34.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "D:\\Tarea pilas, colas, dictionary\\Assets\\Game\\Scripts\\Carro.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Carro.cs",
+              "ToolTip": "D:\\Tarea pilas, colas, dictionary\\Assets\\Game\\Scripts\\Carro.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T17:42:38.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "D:\\Tarea pilas, colas, dictionary\\Assets\\Game\\Scripts\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Vehiculo.cs",
+              "ToolTip": "D:\\Tarea pilas, colas, dictionary\\Assets\\Game\\Scripts\\Vehiculo.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\Vehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T17:42:40.395Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

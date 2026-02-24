@@ -1,0 +1,39 @@
+{
+   "coleccionables":[
+      {
+         "nombre":"Espada Maestra",
+         "rareza":"Legendaria",
+         "valor":2000,
+         "iconoId":"espada"
+      },
+      {
+         "nombre":"Super Estrella",
+         "rareza":"Epica",
+         "valor":1000,
+         "iconoId":"estrella"
+      },
+      {
+         "nombre":"PokeBall",
+         "rareza":"Especial",
+         "valor":500,
+         "iconoId":"pokeball"
+      }
+   ],
+   "misiones":[
+      {
+         "id":1,
+         "titulo":"Activa el mecanismo",
+         "descripcion":"Presiona el boton 3 veces para abrir la puerta"
+      },
+      {
+         "id":2,
+         "titulo":"Entrenamiento de combate",
+         "descripcion":"Golpea (da clic) al muñeco de practica para mejorar tu tecnica"
+      },
+      {
+         "id":3,
+         "titulo":"Invocar energia ancestral",
+         "descripcion":"Presiona la letra E para invocar tu energia ancestral"
+      }
+   ]
+}

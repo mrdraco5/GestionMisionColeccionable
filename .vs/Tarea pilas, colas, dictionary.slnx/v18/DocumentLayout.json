@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tarea pilas, colas, dictionary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Tarea pilas, colas, dictionary\\Assets\\Game\\Scripts\\DataManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Game\\Scripts\\DataManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\tarea pilas, colas, dictionary\\assets\\game\\scripts\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\tarea pilas, colas, dictionary\\assets\\game\\scripts\\coleccionable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\coleccionable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\tarea pilas, colas, dictionary\\assets\\game\\scripts\\mision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\mision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\tarea pilas, colas, dictionary\\assets\\game\\scripts\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "D:\\Tarea pilas, colas, dictionary\\Assets\\Game\\Scripts\\DataManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\DataManager.cs",
+              "ToolTip": "D:\\Tarea pilas, colas, dictionary\\Assets\\Game\\Scripts\\DataManager.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\DataManager.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T15:27:52.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameData.cs",
+              "DocumentMoniker": "D:\\Tarea pilas, colas, dictionary\\Assets\\Game\\Scripts\\GameData.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\GameData.cs",
+              "ToolTip": "D:\\Tarea pilas, colas, dictionary\\Assets\\Game\\Scripts\\GameData.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\GameData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T15:49:56.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Coleccionable.cs",
+              "DocumentMoniker": "D:\\Tarea pilas, colas, dictionary\\Assets\\Game\\Scripts\\Coleccionable.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Coleccionable.cs",
+              "ToolTip": "D:\\Tarea pilas, colas, dictionary\\Assets\\Game\\Scripts\\Coleccionable.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\Coleccionable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T15:49:52.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mision.cs",
+              "DocumentMoniker": "D:\\Tarea pilas, colas, dictionary\\Assets\\Game\\Scripts\\Mision.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Mision.cs",
+              "ToolTip": "D:\\Tarea pilas, colas, dictionary\\Assets\\Game\\Scripts\\Mision.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\Mision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T15:49:59.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "D:\\Tarea pilas, colas, dictionary\\Assets\\Game\\Scripts\\Inventario.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Inventario.cs",
+              "ToolTip": "D:\\Tarea pilas, colas, dictionary\\Assets\\Game\\Scripts\\Inventario.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\Inventario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T16:50:50.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
