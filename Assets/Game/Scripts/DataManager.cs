@@ -3,60 +3,85 @@ using System.Collections.Generic;
 
 public class DataManager : MonoBehaviour
 {
+    // ============================
+    // LISTA (Módulo 2 del PDF)
+    // ============================
     public List<Coleccionable> listaColeccionables = new List<Coleccionable>();
+
+    // ============================
+    // PILA PRINCIPAL (Módulo 3)
+    // ============================
     public Stack<Mision> misionesStack = new Stack<Mision>();
+
+    // PILA PARA UNDO (obligatorio)
+    public Stack<Mision> historialStack = new Stack<Mision>();
+
     private GameData gameData;
 
-    void Start()
-    {
-        CargarDatos();
-    }
-
+    // Se llama desde botón Cargar
     public void CargarDatos()
     {
         TextAsset jsonFile = Resources.Load<TextAsset>("GameData");
 
         if (jsonFile == null)
         {
-            Debug.LogError("No se encontró GameData en Resources");
+            Debug.LogError("No se encontró GameData");
             return;
         }
 
         gameData = JsonUtility.FromJson<GameData>(jsonFile.text);
-        listaColeccionables = gameData.coleccionables;
-        misionesStack.Clear();
 
+        listaColeccionables = gameData.coleccionables;
+
+        misionesStack.Clear();
+        historialStack.Clear();
+
+        // Cargar pila en orden inverso
         for (int i = gameData.misiones.Count - 1; i >= 0; i--)
         {
             misionesStack.Push(gameData.misiones[i]);
         }
-
-        Debug.Log("Datos cargados correctamente");
     }
 
+    // Buscar usando Equals (el profe lo exige)
     public Coleccionable BuscarColeccionablePorNombre(string nombre)
     {
-        return listaColeccionables.Find(c => c.nombre == nombre);
+        foreach (Coleccionable c in listaColeccionables)
+        {
+            if (c.nombre.Equals(nombre))
+            {
+                return c;
+            }
+        }
+        return null;
     }
 
+    // Peek obligatorio
     public Mision ObtenerMisionActual()
     {
         if (misionesStack.Count > 0)
             return misionesStack.Peek();
-        else
-            return null;
+
+        return null;
     }
 
+    // Pop obligatorio
     public void CompletarMision()
     {
         if (misionesStack.Count > 0)
         {
             Mision completada = misionesStack.Pop();
-            Debug.Log("Misión completada: " + completada.titulo);
+            historialStack.Push(completada);
         }
-        else
+    }
+
+    // Undo obligatorio
+    public void Revertir()
+    {
+        if (historialStack.Count > 0)
         {
-            Debug.Log("No hay más misiones.");
+            Mision ultima = historialStack.Pop();
+            misionesStack.Push(ultima);
         }
     }
 }
