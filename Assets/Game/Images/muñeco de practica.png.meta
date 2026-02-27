@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3172ebc748b75e0429f652a2c1aebcb0
+guid: a79354be7149386408daaf56d5ebdb4b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5256424462040999547
-    second: boton 1_0
+      213: 4314501288134133997
+    second: "mu\xF1eco de practica_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: boton 1_0
+      name: "mu\xF1eco de practica_0"
       rect:
         serializedVersion: 2
-        x: 184
-        y: 326
-        width: 176
-        height: 83
+        x: 219
+        y: 100
+        width: 227
+        height: 246
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5895f5f2dcd6d07b0800000000000000
-      internalID: -5256424462040999547
+      spriteID: de84336ff0030eb30800000000000000
+      internalID: 4314501288134133997
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      boton 1_0: -5256424462040999547
+      "mu\xF1eco de practica_0": 4314501288134133997
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

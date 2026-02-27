@@ -1,5 +1,6 @@
-[System.Serializable]
+using UnityEngine;
 
+[System.Serializable]
 public class Coleccionable
 {
     public string nombre;
